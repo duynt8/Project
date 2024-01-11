@@ -76,3 +76,4 @@ from clean
               END
               as phan_nhom_dien_tich
  from converted_gia
+ 
